@@ -1,0 +1,5 @@
+M01,Apple,info@apple.com
+M02,Xiaomi,info@xiaomi.com
+M03,Nokia,info@nokia.com
+M04,Dell,info@dell.com
+M05,HP,info@hp.com
