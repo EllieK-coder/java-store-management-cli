@@ -1,0 +1,6 @@
+# Compiled output
+*.class
+**/build/
+**/dist/
+target/
+.github/modernize/
